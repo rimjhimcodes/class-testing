@@ -9,3 +9,7 @@ print("hello world")
 x = 10
 
 print(x*2)
+
+y = 45
+
+print(x*y)

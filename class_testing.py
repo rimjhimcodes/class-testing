@@ -13,3 +13,7 @@ print(x*2)
 y = 45
 
 print(x*y)
+
+thurs = True
+if thurs:
+  print("Busy")
